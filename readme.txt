@@ -1,0 +1,1 @@
+- Testar se pode traduzir "Menu Text" sem problemas.
